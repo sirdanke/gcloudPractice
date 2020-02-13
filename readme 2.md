@@ -1,0 +1,1 @@
+sequelize db:migrate --migrations-path=app/db/migrations --config=app/db/sequelize-config.js
